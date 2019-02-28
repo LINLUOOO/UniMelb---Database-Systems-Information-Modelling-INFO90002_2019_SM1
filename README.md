@@ -15,6 +15,14 @@ The study of database systems and information modelling is foundational in Infor
 * Be familiar with how databases work within a larger application architecture
 * Understand the relationship of database systems to a variety of fields such as data warehousing, health informatics and Geospatial applications
 
+# Download and install MySQL
+We are using MySQL version 8
+* Windows  
+Server + Workbench: http://dev.mysql.com/downloads/windows/installer/
+* Other OS  
+Server: http://dev.mysql.com/downloads/mysql/  
+Workbench: http://dev.mysql.com/downloads/workbench/  
+
 # Run a Jupyter notebook in Google Colaboratory
 The following ways can be used to load a GitHub-hosted notebook into [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).
 * Use this GitHub repository's url (subsequent GitHub sign-in is required) to open the notebook directly from GitHub.
