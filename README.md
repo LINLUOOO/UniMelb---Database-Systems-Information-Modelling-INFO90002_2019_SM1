@@ -23,6 +23,8 @@ Server + Workbench: http://dev.mysql.com/downloads/windows/installer/
 Server: http://dev.mysql.com/downloads/mysql/  
 Workbench: http://dev.mysql.com/downloads/workbench/  
 
+Note: The server we are using in this subject is only available for use within the university, or via the university’s VPN (Virtual Private Network). To gain access to the university’s VPN you need to look at http://studentit.unimelb.edu.au/findconnect/vpn and follow the appropriate instructions for your operating system.  
+
 # Run a Jupyter notebook in Google Colaboratory
 The following ways can be used to load a GitHub-hosted notebook into [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).
 * Use this GitHub repository's url (subsequent GitHub sign-in is required) to open the notebook directly from GitHub.
