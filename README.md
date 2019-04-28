@@ -23,7 +23,7 @@ Server + Workbench: http://dev.mysql.com/downloads/windows/installer/
 Server: http://dev.mysql.com/downloads/mysql/  
 Workbench: http://dev.mysql.com/downloads/workbench/  
 
-# Run a Jupyter notebook in Google Colaboratory
+# Run Jupyter notebooks in Google Colaboratory
 The following ways can be used to load a GitHub-hosted notebook into [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true).
 * Use this GitHub repository's url (subsequent GitHub sign-in is required) to open the notebook directly from GitHub.
 * Click on the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() badge on the top of the GitHub notebook displayed on the website (subsequent GitHub sign-in is required).
