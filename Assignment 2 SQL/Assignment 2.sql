@@ -77,7 +77,7 @@ FROM
 	FROM step_taken
 	GROUP BY step_id) AS average_rating
     
-    LEFT JOIN step
+    RIGHT JOIN step
     ON average_rating.step_id = step.id
 ORDER BY average_rating.avg_rating DESC;
 
